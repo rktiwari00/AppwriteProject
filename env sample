@@ -1,0 +1,6 @@
+VITE_BACKEND_URL = "https://cloud.appwrite.io/v1"
+VITE_PROJECT_ID = "your-project-id"
+VITE_DATABASE_ID ="your-database-id"
+VITE_COLLECTION_ID="your-collection-id"
+VITE_BUCKET_ID="your-bucket-id"
+VITE_TINY_CLOUD_API="your-api-key"
