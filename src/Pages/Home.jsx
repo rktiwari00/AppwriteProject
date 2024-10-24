@@ -16,7 +16,7 @@ function Home() {
 
   if (posts.length === 0) {
     return (
-      <div className="w-full min-h-screen py-8 mt-4 text-center">
+      <div className="w-full min-h-svh py-8 mt-4 text-center content-center">
         <Container>
           <h1 className="text-2xl font-bold text-gray-800">
             Login to read posts
