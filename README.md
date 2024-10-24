@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ranjan Tiwari - [rkt567@gmail.com](mailto:rkt567@gmail.com)  
 Project Link: [https://github.com/rktiwari00/AppwriteProject](https://github.com/rktiwari00/AppwriteProject)
-```
+
 
 ### Notes:
 - Replace `path/to/logo.png` with the actual path to your logo if you have one.
